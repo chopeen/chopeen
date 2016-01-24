@@ -4,6 +4,12 @@
 
 [Sharepoint Skype status field](https://skypestatusfield.codeplex.com/)
 
+[Oracle's LISTAGG for SQL Server (C# UDAF)](http://chopeen.blogspot.com/2007/05/sql-clr-user-defined-aggregate-notes-on.html)
+
+[Tool to import bookmarks from Furl to Delicious](http://chopeen.blogspot.com/2009/01/furl2delicious-tool-to-import-bookmarks.html)
+
+[Fix to shrink an outsized KeePassX/KeePass database](http://chopeen.blogspot.com/2008/03/shrinking-outsized-keepassxkeepass.html)
+
 [Last.fm event shoutbox feed](http://userscripts-mirror.org/scripts/show/28453) (Greasemonkey script, no longer functional due to changes at Last.fm)
 
 [Google Search - un-S-U-P-E-R-sized](http://userscripts-mirror.org/scripts/show/57449) (Greasemonkey script, no longer functional due to changes at Google.com)
