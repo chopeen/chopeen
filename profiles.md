@@ -1,4 +1,4 @@
-# Marek Grzenkowicz (chopeen) online
+# Marek Grzenkowicz - IT-related profiles
 
 [StackOverflow](http://stackoverflow.com/users/95/marek-grzenkowicz?tab=profile)
 
