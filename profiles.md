@@ -4,7 +4,13 @@
 
 [Other StackExchange accounts](http://stackexchange.com/users/79/marek-grzenkowicz?tab=accounts)
 
-[Blog](http://chopeen.blogspot.com/) (now discontinued due to my SO activity)
+[Blog](http://chopeen.blogspot.com/) (replaced with [self-answers](http://stackoverflow.com/help/self-answer) I post at SO)
+
+[LinkedIn](https://www.linkedin.com/in/marekgrzenkowicz)
+
+[Last.fm](http://www.last.fm/user/chopeen)
+
+[Twitter](https://twitter.com/chopeen)
 
 [CodeProject](http://www.codeproject.com/Members/chopeen)
 
