@@ -4,7 +4,7 @@
 
 [Other StackExchange accounts](http://stackexchange.com/users/79/marek-grzenkowicz?tab=accounts)
 
-[Blog](http://chopeen.blogspot.com/) (now discontinued)
+[Blog](http://chopeen.blogspot.com/) (now discontinued due to my SO activity)
 
 [CodeProject](http://www.codeproject.com/Members/chopeen)
 
