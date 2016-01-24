@@ -1,6 +1,6 @@
 ## Online profiles
 
-[StackOverflow](http://stackoverflow.com/users/95/marek-grzenkowicz?tab=profile)
+[StackOverflow](http://stackoverflow.com/users/95/marek-grzenkowicz?tab=profile) (300 answers and counting)
 
 [Other StackExchange accounts](http://stackexchange.com/users/79/marek-grzenkowicz?tab=accounts)
 
