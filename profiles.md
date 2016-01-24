@@ -1,4 +1,4 @@
-# Marek Grzenkowicz - IT-related profiles
+# Marek Grzenkowicz - online profiles
 
 [StackOverflow](http://stackoverflow.com/users/95/marek-grzenkowicz?tab=profile)
 
