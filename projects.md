@@ -1,6 +1,6 @@
 ## Small projects
 
-[TextBoxRegex - A Text Box with Data Validation](http://www.codeproject.com/Articles/8413/TextBoxRegex-A-Text-Box-with-Data-Validation)
+[TextBoxRegex - a text box with data validation](http://www.codeproject.com/Articles/8413/TextBoxRegex-A-Text-Box-with-Data-Validation)
 
 [Sharepoint Skype status field](https://skypestatusfield.codeplex.com/)
 
