@@ -17,3 +17,4 @@
 ## Slide decks
 
 [Data warehousing on Hadoop](http://www.cs.put.poznan.pl/events/Roche-DW-Hadoop.pdf)
+[Data warehousing on Hadoop - 7 months later](http://www.cs.put.poznan.pl/events/2016-04-SeminPAN/MGrzenkowicz.pdf)
