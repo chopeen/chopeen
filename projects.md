@@ -16,6 +16,6 @@
 
 ## Slide decks
 
-[Data warehousing on Hadoop](http://www.cs.put.poznan.pl/events/Roche-DW-Hadoop.pdf)
+[Data warehousing on Hadoop](http://www.cs.put.poznan.pl/events/Roche-DW-Hadoop.pdf) (presented at the [DAC4B conference](http://www.cs.put.poznan.pl/events/DAC4B.html))
 
-[Data warehousing on Hadoop - 7 months later](http://www.cs.put.poznan.pl/events/2016-04-SeminPAN/MGrzenkowicz.pdf)
+[Data warehousing on Hadoop - 7 months later](http://www.cs.put.poznan.pl/events/2016-04-SeminPAN/MGrzenkowicz.pdf) (presented at the [PAS seminar](http://www.cs.put.poznan.pl/events/PAS-seminar-pl.html))
