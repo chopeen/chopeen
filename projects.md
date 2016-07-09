@@ -1,3 +1,13 @@
+## Slide decks
+
+[Data warehousing on Hadoop](http://www.cs.put.poznan.pl/events/Roche-DW-Hadoop.pdf) (presented at the [DAC4B conference](http://www.cs.put.poznan.pl/events/DAC4B.html))
+
+[Data warehousing on Hadoop - 7 months later](http://www.cs.put.poznan.pl/events/2016-04-SeminPAN/MGrzenkowicz.pdf) (presented at the [PAS seminar](http://www.cs.put.poznan.pl/events/PAS-seminar-pl.html))
+
+[Data warehousing on Hadoop - One important DON'T and a few DOs](http://go.roche.com/dwh-quickie) (presented at [Devoxx PL 2016](http://cfp.devoxx.pl/2016/speaker/marek_grzenkowicz))
+
+[Data warehousing on Hadoop - After a few months in production](http://go.roche.com/dwh-bof) (presented at [Devoxx PL 2016](http://cfp.devoxx.pl/2016/speaker/marek_grzenkowicz))
+
 ## Small projects
 
 [TextBoxRegex - a text box with data validation](http://www.codeproject.com/Articles/8413/TextBoxRegex-A-Text-Box-with-Data-Validation)
@@ -13,9 +23,3 @@
 [Last.fm event shoutbox feed](http://userscripts-mirror.org/scripts/show/28453) (Greasemonkey script, no longer functional due to changes at Last.fm)
 
 [Google Search - un-S-U-P-E-R-sized](http://userscripts-mirror.org/scripts/show/57449) (Greasemonkey script, no longer functional due to changes at Google.com)
-
-## Slide decks
-
-[Data warehousing on Hadoop](http://www.cs.put.poznan.pl/events/Roche-DW-Hadoop.pdf) (presented at the [DAC4B conference](http://www.cs.put.poznan.pl/events/DAC4B.html))
-
-[Data warehousing on Hadoop - 7 months later](http://www.cs.put.poznan.pl/events/2016-04-SeminPAN/MGrzenkowicz.pdf) (presented at the [PAS seminar](http://www.cs.put.poznan.pl/events/PAS-seminar-pl.html))
