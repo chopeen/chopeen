@@ -2,5 +2,6 @@
 
 Examples of my work that are available publicly:
 
- - [small projects and slide decks](projects.md)
+ - [presentations and slide decks](presentations.md)
+ - [small projects](projects.md)
  - [online profiles](profiles.md)
