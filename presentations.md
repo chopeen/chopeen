@@ -1,6 +1,6 @@
 ## Presentations
 
-Data warehousing on Hadoop - DOs and DON'Ts (presented at the [Code4Life conference](http://code4life.pl/#/conference/talks) and [PAZUR meetup](http://www.meetup.com/Poznan-R-User-Group-PAZUR/events/234115285/))
+Data warehousing on Hadoop - DOs and DON'Ts (presented at the [Code4Life conference](http://code4life.pl/#/conference/talks/speaker/11) and [PAZUR meetup](http://www.meetup.com/Poznan-R-User-Group-PAZUR/events/234115285/))
 
  - Extended version of the Devoxx presentation
  - Recording and slide deck - TBD
