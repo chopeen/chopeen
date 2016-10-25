@@ -1,5 +1,10 @@
 ## Presentations
 
+Data warehousing on Hadoop - DOs and DON'Ts (presented at the [Code4Life conference](http://code4life.pl/#/conference/talks) and [PAZUR meetup](http://www.meetup.com/Poznan-R-User-Group-PAZUR/events/234115285/))
+
+ - Extended version of the Devoxx presentation
+ - Recording and slide deck - TBD
+
 [Data warehousing on Hadoop - One important DON'T and a few DOs](http://go.roche.com/dwh-quickie) (presented at [Devoxx PL 2016](http://cfp.devoxx.pl/2016/speaker/marek_grzenkowicz))
 
 > At the same time, you can have your lunch and learn why you should attend my evening BOF session. Does it sound like a good deal?
