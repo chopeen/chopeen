@@ -1,4 +1,4 @@
-## Presentations (slide decks)
+## Presentations
 
 [Data warehousing on Hadoop - One important DON'T and a few DOs](http://go.roche.com/dwh-quickie) (presented at [Devoxx PL 2016](http://cfp.devoxx.pl/2016/speaker/marek_grzenkowicz))
 
