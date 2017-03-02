@@ -4,7 +4,7 @@
 
  - Extended version of the Devoxx presentation
 
-**Data warehousing on Hadoop - One important DON'T and a few DOs** ([slide deck](http://go.roche.com/dwh-quickie); presented at [Devoxx PL 2016](http://cfp.devoxx.pl/2016/speaker/marek_grzenkowicz))
+**Data warehousing on Hadoop - One important DON'T and a few DOs** ([slide deck](http://go.roche.com/dwh-quickie); presented at [Devoxx PL 2016](http://cfp.2016.devoxx.pl/2016/speaker/marek_grzenkowicz.html))
 
 > At the same time, you can have your lunch and learn why you should attend my evening BOF session. Does it sound like a good deal?
 
