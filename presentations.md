@@ -1,6 +1,6 @@
 ## Presentations
 
-**Data warehousing on Hadoop - DOs and DON'Ts** ([slide deck](http://go.roche.com/dwh-pazur) + [recording](https://players.brightcove.net/74068454001/41tMlekKl_default/index.html?videoId=5219169721001); presented at the [Code4Life conference](http://code4life.pl/#/conference/talks/speaker/11) and [PAZUR meetup](http://www.meetup.com/Poznan-R-User-Group-PAZUR/events/234115285/))
+**Data warehousing on Hadoop - DOs and DON'Ts** ([slide deck](http://go.roche.com/dwh-pazur) + [recording](https://players.brightcove.net/74068454001/41tMlekKl_default/index.html?videoId=5219169721001); presented at the [Code4Life conference](http://code4life.pl/conference/recordings) and [PAZUR meetup](http://www.meetup.com/Poznan-R-User-Group-PAZUR/events/234115285/))
 
  - Extended version of the Devoxx presentation
 
