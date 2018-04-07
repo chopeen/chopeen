@@ -2,8 +2,7 @@
 
 ### 2017
 
-TBD
-(Code4Life Meetup, IT for SHE Tech Camp, Code4Life Conference)
+_TBD ([Code4Life Meetup x2](http://code4life.pl/meetups/start), IT for SHE Tech Camp, Code4Life Conference)_
 
 ### 2016
 
