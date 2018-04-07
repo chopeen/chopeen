@@ -1,3 +1,10 @@
+# 2017
+
+TBD
+(Code4Life Meetup, IT for SHE Tech Camp, Code4Life Conference)
+
+# 2016
+
 ## Presentations
 
 **Data warehousing on Hadoop - DOs and DON'Ts** ([slide deck](http://go.roche.com/dwh-pazur) + [recording](https://players.brightcove.net/74068454001/41tMlekKl_default/index.html?videoId=5219169721001); presented at the [Code4Life conference](http://code4life.pl/conference/recordings) and [PAZUR meetup](http://www.meetup.com/Poznan-R-User-Group-PAZUR/events/234115285/))
@@ -29,6 +36,8 @@
 > I will have slides, but I don’t need to follow them. Ask questions! Challenge me! Share you own experience!
 
 **Data warehousing on Hadoop - 7 months later** ([slide deck](http://www.cs.put.poznan.pl/events/2016-04-SeminPAN/MGrzenkowicz.pdf); presented at the [PAS seminar](http://www.cs.put.poznan.pl/events/PAS-seminar-pl.html))
+
+# 2015
 
 **Data warehousing on Hadoop** ([slide deck](http://www.cs.put.poznan.pl/events/Roche-DW-Hadoop.pdf); presented at the [DAC4B conference](http://www.cs.put.poznan.pl/events/DAC4B.html))
 
