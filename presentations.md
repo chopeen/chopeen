@@ -2,9 +2,20 @@
 
 ### 2017
 
-**Natural language processing: IT meets grammar** ([Code4Life Conference](http://code4life.pl/conference/start), [Data Science Summit](http://dssconf.pl/), [Code4Life Meetup](http://code4life.pl/meetups/start))    
+**Natural language processing: IT meets grammar** ([Code4Life Conference](http://code4life.pl/conference/start), [Data Science Summit](http://dssconf.pl/), [Code4Life Meetup](http://code4life.pl/meetups/start))
 
-**Natural language processing at Roche** ([Code4Life Scientific](http://scientific.code4life.pl/))  
+> Business Intelligence is not only about numbers and figures. Unstructured text data, like patient records or product reviews, contain valuable insights, but extracting them is not trivial. By presenting two use cases from Roche Global IT Solutions, we will show you the basic NLP methods and prove that it may be time to brush up on your grammar knowledge.
+
+**Natural language processing at Roche** ([Code4Life Scientific](http://scientific.code4life.pl/))
+
+> Sometimes documents contain information valuable for different teams, but at the same time they may contain sensitive data and - as a precaution - only a small group of people can access them. Manual review and redaction is usually not feasible due to the amount of documents. Named entity recognition (NER) allows to locate different types of entities and selectively mask them. The upcoming GDPR regulation will only increase the demand for efficient text data de-identification.
+> 
+> Full-text search engines can provide more relevant results, if the indexing process understands the semantic relations between terms in a document. Patient medical records very often contain both symptoms and negative finding. Negation detection allows to distinguish the relevant documents from the ones that merely contain some term.
+> 
+> Conversational user interfaces (CUI) like chatbots can provide an additional medium to communicate with the customers. They promise automated communication solution that is familiar to the users, personalized and context-sensitive. At the same time, the process training and tuning the chatbot's model is challenging, because natural language understanding (NLU) engines offered by the vendors are black boxes.
+> 
+> This presentation gives an overview of different solutions developed at Roche Global IT Solutions that employ NLP techniques, with a special focus on encountered challenges and unsolved problems.
+
 
 **Data warehousing on Hadoop - DOs and DON'Ts** ([Code4Life Meetup](http://code4life.pl/meetups/start))
 
