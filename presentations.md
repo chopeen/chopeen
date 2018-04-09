@@ -4,6 +4,14 @@
 
 _TBD ([Code4Life Meetup x2](http://code4life.pl/meetups/start), IT for SHE Tech Camp, Code4Life Conference)_
 
+**Natural language processing: IT meets grammar** ([Code4Life Conference](http://code4life.pl/conference/start))  
+**The shortest intro to Big Data** ([IT for SHE](http://www.itforshe.pl/en/); Tech Camp for students)  
+**Natural language processing at Roche** ([Code4Life Scientific](http://scientific.code4life.pl/))  
+**What does a developer do in a healthcare company?** ([IT for SHE](http://www.itforshe.pl/en/); presentation for children)  
+**Natural language processing: IT meets grammar** ([Data Science Summit](http://dssconf.pl/))  
+**Natural language processing: IT meets grammar** ([Code4Life Meetup](http://code4life.pl/meetups/start))  
+**Data warehousing on Hadoop - DOs and DON'Ts** ([Code4Life Meetup](http://code4life.pl/meetups/start))
+
 ### 2016
 
 **Data warehousing on Hadoop - DOs and DON'Ts** ([slide deck](http://go.roche.com/dwh-pazur) + [recording](https://players.brightcove.net/74068454001/41tMlekKl_default/index.html?videoId=5219169721001); presented at the [Code4Life conference](http://code4life.pl/conference/recordings) and [PAZUR meetup](http://www.meetup.com/Poznan-R-User-Group-PAZUR/events/234115285/))
