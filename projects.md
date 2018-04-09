@@ -1,4 +1,4 @@
-## Small projects
+# Small projects
 
 [TextBoxRegex - a text box with data validation](http://www.codeproject.com/Articles/8413/TextBoxRegex-A-Text-Box-with-Data-Validation)
 
@@ -13,4 +13,3 @@
 [Last.fm event shoutbox feed](http://userscripts-mirror.org/scripts/show/28453) (Greasemonkey script, no longer functional due to changes at Last.fm)
 
 [Google Search - un-S-U-P-E-R-sized](http://userscripts-mirror.org/scripts/show/57449) (Greasemonkey script, no longer functional due to changes at Google.com)
-
