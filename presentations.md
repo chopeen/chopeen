@@ -2,8 +2,6 @@
 
 ### 2017
 
-_TBD ([Code4Life Meetup x2](http://code4life.pl/meetups/start), IT for SHE Tech Camp, Code4Life Conference)_
-
 **Natural language processing: IT meets grammar** ([Code4Life Conference](http://code4life.pl/conference/start))  
 **The shortest intro to Big Data** ([IT for SHE](http://www.itforshe.pl/en/); Tech Camp for students)  
 **Natural language processing at Roche** ([Code4Life Scientific](http://scientific.code4life.pl/))  
