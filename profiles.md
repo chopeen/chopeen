@@ -1,4 +1,4 @@
-## Online profiles
+# Online profiles
 
 [StackOverflow](http://stackoverflow.com/users/95/marek-grzenkowicz?tab=profile) (300 answers and counting)
 
