@@ -1,5 +1,13 @@
 # Small projects
 
+## Recent
+
+Azure Cloud explorations - [Functions](https://github.com/chopeen/last-fm-not-mine-alert-func) and [Core Web App](https://github.com/chopeen/last-fm-not-mine-alert-web)
+
+[Minimal ASP.NET Core Web App (Razor Pages) template](https://github.com/chopeen/minimal-razor)
+
+## Old
+
 [TextBoxRegex - a text box with data validation](http://www.codeproject.com/Articles/8413/TextBoxRegex-A-Text-Box-with-Data-Validation)
 
 [Sharepoint Skype status field](https://skypestatusfield.codeplex.com/)
