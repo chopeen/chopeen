@@ -25,9 +25,9 @@
 
 **Data warehousing on Hadoop - DOs and DON'Ts** ([Code4Life Meetup](http://code4life.pl/meetups/start))
 
-**The shortest intro to Big Data** ([IT for SHE](http://www.itforshe.pl/en/); Tech Camp for students)  
+**The shortest intro to Big Data** ([IT for SHE](http://www.itforshe.pl/en/) - Tech Camp for students)  
 
-**What does a developer do in a healthcare company?** ([IT for SHE](http://www.itforshe.pl/en/); presentation for children)  
+**What does a developer do in a healthcare company?** ([IT for SHE](http://www.itforshe.pl/en/) - presentation for children)  
 
 ## 2016
 
