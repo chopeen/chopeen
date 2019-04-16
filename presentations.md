@@ -1,5 +1,11 @@
 # Presentations
 
+## 2019
+
+**Do androids read about electric sheep? Machine reading comprehension algorithms** (([Code4Life Conference](https://code4life.pl/pages/conferences?id=35))
+
+> It has been almost 10 years since Watson beat human contestants at Jeopardy. Computers are better than our chess or Go grandmasters. They fly rockets in space and drive cars. But they still cannot read and understand books. Why is it so hard and how far are computer algorithms from human-level natural language understanding?
+
 ## 2017
 
 **Natural language processing: IT meets grammar** ([Code4Life Conference](http://code4life.pl/conference/start), [Data Science Summit](http://dssconf.pl/), [Code4Life Meetup](http://code4life.pl/meetups/start))
