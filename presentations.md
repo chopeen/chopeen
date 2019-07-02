@@ -2,7 +2,7 @@
 
 ## 2019
 
-**Do androids read about electric sheep? Machine reading comprehension algorithms** ([materials](https://gist.github.com/grzenkom/e54f96f8fb25ea6a58fd0eb0c5b2fb68); presented at the [Code4Life Conference](https://code4life.pl/pages/conferences?id=35))
+**Do androids read about electric sheep? Machine reading comprehension algorithms** ([materials](https://gist.github.com/grzenkom/e54f96f8fb25ea6a58fd0eb0c5b2fb68); presented at the [Code4Life Conference](https://code4life.pl/pages/conferences?id=35) and Code4Life Meetup in Poznan)
 
 > It has been almost 10 years since Watson beat human contestants at Jeopardy. Computers are better than our chess or Go grandmasters. They fly rockets in space and drive cars. But they still cannot read and understand books. Why is it so hard and how far are computer algorithms from human-level natural language understanding?
 
