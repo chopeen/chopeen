@@ -3,8 +3,8 @@
 ## 2019
 
 **Do androids read about electric sheep? Machine reading comprehension algorithms** - revised and extended version, presented at the [Devoxx UA 2019](https://devoxx.com.ua/)
-- :movie_camera: https://youtu.be/Pz27XsF3_jc
-- :octocat: https://github.com/grzenkom/do-androids-read
+- :movie_camera: [Talk recording](https://youtu.be/Pz27XsF3_jc)
+- :octocat: [grzenkom/do-androids-read](https://github.com/grzenkom/do-androids-read)
   - slides (PDF)
   - a Jupyter notebook for the demo part
   - some extra reading materials (in README)
