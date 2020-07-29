@@ -5,7 +5,7 @@
 💬 For the last few years, I have been working in data science projects, focusing on
 **natural language processing** (NLP). 
 
-🎤 I [speak at meetups and conferences](presentations.md).
+🎤 I [speak at meetups and conferences](https://github.com/chopeen/chopeen/blob/master/presentations.md).
 
 🌐 You can find me online at:
 
