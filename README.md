@@ -1,4 +1,4 @@
-## Marek Grzenkowicz 👋
+# Marek Grzenkowicz 👋
 
 🐍 I am a Python developer, with extensive **data processing** and **analytics** background.
 
