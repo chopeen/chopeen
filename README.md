@@ -6,8 +6,6 @@ background. I work as a Staff Engineer at [Roche](https://www.roche.com/).
 ⛅ For the last few years, I have been working with data science teams, focusing on
 **MLOps** and **cloud architecture**.
 
-#️⃣ machine learning, NLP, automation, CI/CD, software craftsmanship
-
 🎤 I [speak at meetups and conferences](https://github.com/chopeen/chopeen/blob/master/presentations.md).
 
 🌐 You can find me online at:
@@ -19,3 +17,5 @@ background. I work as a Staff Engineer at [Roche](https://www.roche.com/).
 - [LinkedIn](https://www.linkedin.com/in/marekgrzenkowicz)
 - [Last.fm](http://www.last.fm/user/chopeen) 
 - [Blog](http://chopeen.blogspot.com/) (discontinued)
+
+#️⃣ machine learning, NLP, automation, CI/CD, software craftsmanship
