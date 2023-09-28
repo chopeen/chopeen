@@ -1,5 +1,12 @@
 # Presentations
 
+## 2023
+
+**Building a Q&A engine with LangChain and open-source LLMs** ([ZS BIT 1001](https://zsbit.pl/))
+- :octocat: [Repository grzenkom/lang-chain-qa](https://github.com/grzenkom/lang-chain-qa)
+  - a Jupyter + RISE slide deck for live demo
+  - extensive extra reading materials (see the closing slides)
+
 ## 2019
 
 **Do androids read about electric sheep? Machine reading comprehension algorithms** - revised and extended version, presented at the [Devoxx UA 2019](https://devoxx.com.ua/)
@@ -8,7 +15,6 @@
   - slides (PDF)
   - a Jupyter notebook for the demo part
   - some extra reading materials (in README)
-  - additional files to set up the environment
 
 **Do androids read about electric sheep? Machine reading comprehension algorithms** ([materials](https://gist.github.com/grzenkom/e54f96f8fb25ea6a58fd0eb0c5b2fb68); presented at the [Code4Life Conference](https://code4life.pl/pages/conferences?id=35) and Code4Life Meetup in Poznan)
 
