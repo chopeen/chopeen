@@ -6,6 +6,7 @@
 - :octocat: [Repository `grzenkom/lang-chain-qa`](https://github.com/grzenkom/lang-chain-qa)
   - a Jupyter + RISE slide deck for live demo
   - extensive extra reading materials (see the closing slides)
+- :spiral_notepad: [Follow-up discussion at LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7112191739322322944/)
 
 ## 2019
 
