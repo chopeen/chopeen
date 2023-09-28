@@ -3,7 +3,7 @@
 ## 2023
 
 **Building a Q&A engine with LangChain and open-source LLMs** ([ZS BIT 1001](https://zsbit.pl/))
-- :octocat: [Repository grzenkom/lang-chain-qa](https://github.com/grzenkom/lang-chain-qa)
+- :octocat: [Repository `grzenkom/lang-chain-qa`](https://github.com/grzenkom/lang-chain-qa)
   - a Jupyter + RISE slide deck for live demo
   - extensive extra reading materials (see the closing slides)
 
@@ -11,7 +11,7 @@
 
 **Do androids read about electric sheep? Machine reading comprehension algorithms** - revised and extended version, presented at the [Devoxx UA 2019](https://devoxx.com.ua/)
 - :movie_camera: [Recording of the talk](https://youtu.be/Pz27XsF3_jc)
-- :octocat: [Repository grzenkom/do-androids-read](https://github.com/grzenkom/do-androids-read)
+- :octocat: [Repository `grzenkom/do-androids-read`](https://github.com/grzenkom/do-androids-read)
   - slides (PDF)
   - a Jupyter notebook for the demo part
   - some extra reading materials (in README)
