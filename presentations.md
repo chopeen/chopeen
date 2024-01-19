@@ -2,6 +2,8 @@
 
 ## 2023
 
+**Building a Q&A engine with LangChain and open-source LLMs** ([DevAI by Data Science Summit 2023](https://devai.dssconf.pl/en/))
+
 **Building a Q&A engine with LangChain and open-source LLMs** ([ZS BIT 1001](https://zsbit.pl/))
 - :octocat: [Repository `grzenkom/lang-chain-qa`](https://github.com/grzenkom/lang-chain-qa)
   - a Jupyter + RISE slide deck for live demo
