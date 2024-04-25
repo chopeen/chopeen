@@ -1,5 +1,12 @@
 # Presentations
 
+## 2024
+
+**Small Language Models - running a ChatGPT equivalent on your own laptop** ([Lubelskie Dni Informatyki 2024](https://ldi.info.pl/))
+- :octocat: [Repository `grzenkom/slm`](https://github.com/grzenkom/slm)
+  - slide deck in PDF format
+  - extensive extra reading materials (see the closing slides)
+
 ## 2023
 
 **Building a Q&A engine with LangChain and open-source LLMs** ([DevAI by Data Science Summit 2023](https://devai.dssconf.pl/en/))
