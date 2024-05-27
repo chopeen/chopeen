@@ -2,6 +2,11 @@
 
 ## 2024
 
+**How to automate dependency updates with the Renovate bot** ([DevOps Pro Europe 2024](https://devopspro.lt/))
+- :octocat: [Repository `grzenkom/renovate-self-hosted`](https://github.com/grzenkom/renovate-self-hosted)
+  - slide deck in PDF format
+  - code to set up a minimal Renovate runner + dummy Python project for experimentation
+
 **Small Language Models - running a ChatGPT equivalent on your own laptop** ([Lubelskie Dni Informatyki 2024](https://ldi.info.pl/))
 - :octocat: [Repository `grzenkom/slm`](https://github.com/grzenkom/slm)
   - slide deck in PDF format
