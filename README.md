@@ -11,7 +11,6 @@ background. I work as a Staff Engineer at [Roche](https://www.roche.com/).
 🌐 You can find me online at:
 
 - GitHub: [chopeen](https://github.com/chopeen/) and [grzenkom](https://github.com/grzenkom/)
-- [Twitter](https://twitter.com/chopeen)
 - [StackOverflow](http://stackoverflow.com/users/95/marek-grzenkowicz?tab=profile)
   - [Other StackExchange sites](http://stackexchange.com/users/79/marek-grzenkowicz?tab=accounts)
 - [LinkedIn](https://www.linkedin.com/in/marekgrzenkowicz)
